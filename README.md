@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Jogo de Memória GTA V</h1>
 
 <p align="center">Projeto de jogo de memória com JavaScript</p>
@@ -9,7 +7,8 @@
  <a href="#sobre">Sobre</a> •
  <a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#pre-requisitos">Pré Requisitos</a> 
+ <a href="#pre-requisitos">Pré Requisitos</a> • 
+ <a href="#demonstracao">Demonstração</a>
  
 </p>
 
@@ -37,5 +36,12 @@
 •  Editor de Trabalho: VSCode
 
 </p>
+
+# Demonstracao
+
+<h1 align="center">
+  <img alt="Portfólio" title="#Portfólio" src="./assets/frente.png" />
+</h1>
+
 
 
