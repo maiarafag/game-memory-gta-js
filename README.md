@@ -2,7 +2,7 @@
 
 <h1 align="center">Jogo de Memória GTA V</h1>
 
-<p align="center">Projeto de jogo de memóri com JavaScript</p>
+<p align="center">Projeto de jogo de memória com JavaScript</p>
 
 
 <p align="center"> 
