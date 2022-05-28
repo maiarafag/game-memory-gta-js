@@ -1,24 +1,19 @@
-<h1 align="center">Jogo de Memória GTA V</h1>
-
-<p align="center">Projeto de jogo de memória com JavaScript</p>
+<h1 >Jogo da Memória GTA V</h1>
 
 
-<p align="center"> 
+<p >Projeto de jogo da memória com JavaScript</p>
+
+
+<p> 
  <a href="#sobre">Sobre</a> •
- <a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#pre-requisitos">Pré Requisitos</a> • 
- <a href="#demonstracao">Demonstração</a>
+ <a href="#resultado">Resultado</a>
  
 </p>
 
 # Sobre
-<p>Este é um projeto de jogo de memória do GTA V desenvovido em JavaScript </p>
-
-# Objetivo
-<p>
- Mostrar o desenvolvimento do Jogo de memória do tema GTA V 
-</p>
+<p>Este é um projeto de jogo da memória do GTA V desenvolvido em JavaScript </p>
 
 # Tecnologias
 <p>Foi usado na construção do projeto:
@@ -37,7 +32,7 @@
 
 </p>
 
-# Demonstracao
+# Resultado
 
 <h1 align="center">
   <img alt="Portfólio" title="#Portfólio" src="./assets/frente.png" />
