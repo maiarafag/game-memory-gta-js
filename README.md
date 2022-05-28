@@ -4,13 +4,6 @@
 <p >Projeto de jogo da memória com JavaScript</p>
 
 
-<p> 
- <a href="#sobre">Sobre</a> •
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#pre-requisitos">Pré Requisitos</a> • 
- <a href="#resultado">Resultado</a>
- 
-</p>
 
 # Sobre
 <p>Este é um projeto de jogo da memória do GTA V desenvolvido em JavaScript </p>
