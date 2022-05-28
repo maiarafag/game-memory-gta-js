@@ -40,7 +40,7 @@
 # Demonstracao
 
 <h1 align="center">
-  <img alt="Portfólio" title="#Portfólio" src="./assets/frente.png" />
+  <img alt="Portfólio" title="#Portfólio" src="./assets/TAL.gif" />
 </h1>
 
 
