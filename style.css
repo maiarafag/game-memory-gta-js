@@ -59,3 +59,7 @@ body {
 .card.flip {
     transform: rotateY(180deg);
 }
+
+@media only screen and (max-device-width: 900px) {
+/* .menu { width:100%; } */
+}
