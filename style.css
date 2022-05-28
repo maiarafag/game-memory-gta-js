@@ -60,6 +60,6 @@ body {
     transform: rotateY(180deg);
 }
 
-@media only screen and (max-device-width: 900px) {
+@media only screen and (max-device-width: 600px) {
 /* .menu { width:100%; } */
 }
